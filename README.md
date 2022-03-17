@@ -1,5 +1,8 @@
 # BiocBinaryTools
+
 WIP package of ideas for querying available Bioconductor binary packages
+
+If package name needs to change, we'll change it. <please add suggestions>
 
 ## WISHLIST
 
