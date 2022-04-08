@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+## Emacs backup files
+.\#*
+
 # Session Data files
 .RData
 
@@ -37,3 +40,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+inst/doc
